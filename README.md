@@ -1,4 +1,4 @@
-docs
+Mistify Documentation
 ====
 
-General documentation for Mistify Project
+This repo contains general documumentation for the Mistify project.
